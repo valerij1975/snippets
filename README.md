@@ -25,6 +25,7 @@
     - models (standart models, google cloud API ...)
         - classical ML
         - google ML API
+        - time series (on dataset from pse.pl and tge.pl)
     - mlops (MLflow ...)
     
 Ps: for Excel and Windows users quick entry to Python is to install JupyterLab Desktop - https://github.com/jupyterlab/jupyterlab-desktop
